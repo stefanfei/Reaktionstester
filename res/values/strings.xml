@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReaktionsTester</string>
+    <string name="start">Start</string>
+    <string name="ende">Beenden</string>
+    <string name="ok">OK</string>
+    <string name="ergebnis">Ergebnis</string>
+    <string name="reaktionsZeit">Reaktionszeit</string>
+    <string name="einstellungen">Einstellungen</string>
+    <string name="rotGruenIgnorieren">Kein rot-grün</string>
+    <string name="warteZeit">Wartezeit</string>
+
+</resources>
